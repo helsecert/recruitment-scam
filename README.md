@@ -3,6 +3,64 @@
 Below are some examples of emails from recruitment scammers - these are all fraudulent.
 
 ```
+From: BSM Associates <bsm.<redacted>@gmail.com>
+Date: Thu, Nov 10, 2022 at 10:45 AM
+Subject: Selection mail Associate Professor in Department of Oral Medicine and Radiology Post in <redacted> Hospital in Norway (Europe).
+To: <redacted victim>
+
+
+Dr. <victim>,
+
+Congratulations! We are pleased to confirm that you have been selected to work for <redacted> Hospital as a Associate Professor in Department of Oral Medicine and Radiology. We are delighted to make you the following job offer.
+
+The position we are offering you is that of Associate Professor in Department of Oral Medicine and Radiology at a monthly salary of NOK 1,87,000 (14,82,000 INR) . It is in hand per month salary after Tax deduction. This is a Full Time position requiring approximately Eight hours per day and five days in a week. Your regular weekly schedule will be provided by Hospital management at the time of joining.
+
+Benefits for the position include
+·         Furnished Family Accommodation
+·         Free meals in working hour
+·         Transportation
+·         Medicare Facility/ Full Family Medical Insurance and Dental
+·         Family visa with Air tickets
+·         Free Child education and miscellaneous allowance
+·         35 days paid off yearly etc.
+·         30 days paid training.
+·         Free Norwegian and Sami Norway language spoken Training after joining the hospital
+
+To accept this job offer, you have to submit Documents with Examination fee USD 265 (INR 21,821) till 11th November, 2022 as we have limited seats with a given deadline.  
+
+Documents List:-
+·         Qualifications Certificate
+·         Proof of Residence
+·         Relieving Certificate / Experience Certificates / Appointment Letter/ Offer Letter (Anyone)
+·         Passport Copy (Front & Back)      
+·         One Scanned color passport size photo
+·         Covid-19 vaccination certificate (2 dose)
+
+Kindly submit fee in Given Bank Details: - ( Paytm, Phonepe, Google Pay, IMPS, Net Banking)
+
+Bank Details:-
+Name: - BSM Associates
+Bank Name: - Bank of India
+Account Number: -  < redacted account number >
+IFSC Code: - < redacted IFSC code>
+
+Acceptance Deadline - Employee must accept this offer by 11th November, 2022.
+
+Refund Policy: Any rejection will occur in the documents verification, /exam and during visa & medical in all these cases your fee will be refunded by BSM Associates without any tax deduction. Refunds should be made within 2 to 3 working days. 
+
+Any Changes to this agreement may only be made in writing. For any queries about this offer please contact <redacted scammer alias> and Whatsapp me on <redacted Whatsapp number> to the recruiting department of our organization.
+
+We are confident you will be able to make a significant contribution to the success of our hospital and look forward to working with you.
+
+Regards,
+BSM Associates
+<redacted scammer alias> || Sr. HR Manager
+Contact / Whatsapp Number: <redacted Whatsapp number>
+Email Id-   <redacted>@bsm.associates || <redacted>.bsmassociates@gmail.com || srmanager.bsm@gmail.com
+Website: https://bsm.associates/
+```
+
+```
 From: Venkatapathy Manpower Consultant <<redacted>.vmc@gmail.com>
 Date: Tue, 12 Jul 2022
 Subject: Employment Confirmation Mail – Senior Microbiologist Post in <redacted> University Hospital , <location> in Norway.
