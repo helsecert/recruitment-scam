@@ -3,6 +3,37 @@
 Below are some examples of emails from recruitment scammers - these are all fraudulent.
 
 ```
+Date: 1-06-2023
+Designation: - Microbiologist
+Offered Salary: - 96000 NOK Per Month
+Place of work: - <Redacted> Hospital
+Sub: Letter of Appointment
+
+To,
+Mr. <Victim>,
+
+This is in reference to your Job application; <Redacted> Hospital of Norway is pleased to appoint you to the position of Microbiologist in their Hospital, The hospital has been impressed with your background and would like to formally offer a full time position.
+
+Further you are in the service on the following terms and conditions:
+
+In this position, your net emoluments per month excluding all other benefits, will be 96000 NOK Per month in hand) First 3 month will be considered as a probation period of training which is total paid. Increment of your salary will be depending upon your performance during the probation period.
+
+Contract Period: - Your appointment will be on a contract basis of 3 years (Extendable). 
+
+Working Days / Hours of work / Overtime
+
+Working days will be 5 days a week.
+The normal working hours will be 37 hours weekly
+Overtime 125 NOK per hour.
+
+Rest Day Work
+You may be requested to work on a rest day. If you agree to such a request, you will be paid as follows:
+
+1⁄2 The Normal Daily Working Hours - 1 Day’s Basic Salary
+Up To The Normal Daily Working Hours - 2 Day’s Basic Salary
+```
+
+```
 From: BSM Associates <bsm.<redacted>@gmail.com>
 Date: Thu, Nov 10, 2022 at 10:45 AM
 Subject: Selection mail Associate Professor in Department of Oral Medicine and Radiology Post in <redacted> Hospital in Norway (Europe).
